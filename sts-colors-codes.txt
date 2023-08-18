@@ -1,0 +1,5 @@
+    Text: #050604 (RGB: 5, 6, 4)
+    Background: #f9f9f9 (RGB: 249, 249, 249)
+    Primary: #F29301 (RGB: 242, 147, 1)
+    Secondary: #962320 (RGB: 150, 35, 32)
+    Accent: #962320 (RGB: 150, 35, 32)
